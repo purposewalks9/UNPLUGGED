@@ -65,4 +65,6 @@ sudo systemctl start NetworkManager
 - Any with monitor mode + packet injection
 
 ## Contact
-github.com/purposewalks9/unplugged
+github.com/purposewalks9/UNPLUGGED
+Email purposewalks9@gmail.com
+Discord purpos_e
