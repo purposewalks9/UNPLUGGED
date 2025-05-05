@@ -1,4 +1,5 @@
 # UNPLUGGED
+
 | | | | | |
 | | | |_ **_** *_* *_* | | ___ * *___
 | | | | '_ \ / * \ '*_| '_ \| |/ * \| | | / *_|
@@ -37,7 +38,7 @@ sudo airmon-ng start wlan0  # Replace wlan0 with your interface
 
 ```bash
 # Clone and run
-git clone https://github.com/purposewalks9/unplugged.git
+git clone https://github.com/purposewalks9/UNPLUGGED.git
 cd unplugged
 chmod +x unplugged.py
 sudo python3 unplugged.py
