@@ -7,7 +7,7 @@ import signal
 """
 This script only runs on Ubuntu. To function correctly, it requires the following tools:
 
-  python3, pandas, time, os, signal, net-tools, macchanger, aircrack-ng
+  python3, pandas, time, signal, net-tools, macchanger, aircrack-ng
 
 Ensure a wireless adapter is connected and properly configured in monitor mode before running.
 """
